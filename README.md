@@ -1,2 +1,2 @@
 # vic-trams
-Fitbit app that displays arrival times Melbourne's tram network.
+Fitbit app that displays tram arrival times for Melbourne's tram network.
